@@ -39,7 +39,16 @@ The four mandatory tasks completed are:
 - The PDB was created successfully, opened in READ WRITE mode, and the required user was created and verified.
 
 **Screenshots:**  
-`screenshots/task1/`
+### Task 1 – Create Permanent PDB
+
+**PDB Creation:**
+![PDB Creation](screenshots/task1/Screenshot%20task1%201.png)
+
+**PDB Open State:**
+![PDB Open State](screenshots/task1/Screenshot%20task1%202.png)
+
+**User Created:**
+![User Created](screenshots/task1/Screenshot%20task1%203.png)
 
 ### Task 2 – Create and Delete a Temporary PDB
 
@@ -48,8 +57,16 @@ The four mandatory tasks completed are:
 - Final verification confirmed that the temporary PDB no longer exists.
 
 **Screenshots:**  
-`screenshots/task2/`
+### Task 2 – Create and Delete Temporary PDB
 
+**Temporary PDB Creation:**
+![Temp PDB Creation](screenshots/task2/Screenshot%20task2%201.png)
+
+**Temporary PDB Opened and Closed:**
+![Temp PDB Open Close](screenshots/task2/Screenshot%20task2%202.png)
+
+**Temporary PDB Deleted:**
+![Temp PDB Deletion](screenshots/task2/Screenshot%20task2%203.png)
 ### Task 3 – Oracle Enterprise Manager (OEM)
 
 - EM Express was successfully accessed at `https://localhost:5500/em`
@@ -57,10 +74,11 @@ The four mandatory tasks completed are:
 - The permanent PDB `RU_PDB_28468` is visible in the environment
 
 **Screenshot:**  
-`screenshots/task3/oem_dashboard.png`
+### Task 3 – OEM Dashboard
+
+![OEM Dashboard](screenshots/task3/task%203.png)
 
 ---
-
 ## 4. Challenges Faced and Solutions
 
 | Challenge | Solution |
@@ -76,7 +94,7 @@ The four mandatory tasks completed are:
 
 I hereby declare that all the work submitted in this repository is my own. All screenshots and commands were executed by me on my local Oracle 21c XE environment. I did not copy or submit anyone else’s work.
 
----
+--
 
 ## 6. Submission Details
 
