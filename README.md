@@ -80,7 +80,7 @@ I hereby declare that all the work submitted in this repository is my own. All s
 
 ## 6. Submission Details
 
-- **Repository Link:** https://github.com/[your-username]/oracle_pdb_ass_II_28468_rutagengwa
+- **Repository Link:** https://github.com/brucerut/oracle_pdb_ass_II_28468_rutagengwa
 - **PDB Name Created:** `ru_pdb_28468`
 - **Temporary PDB Name:** `ru_to_delete_pdb_28468`
 - **Class User:** `RUTAGENGWA_PLSQLAUCA_28468`
